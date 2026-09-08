@@ -1,0 +1,16 @@
+* { /*Seletor universal*/
+    margin: 0; /*Margin = espaço externo*/
+    padding: 0; /*Padding = espaço interno*/
+    box-sizing: border-box;
+}
+p { /*Seletor de tag*/
+    color: green;
+}
+.seu {
+    color: red;
+}
+#email {
+    background-color: gray;
+    height: 20px;
+    border-radius: 25px;
+}
